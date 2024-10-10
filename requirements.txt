@@ -1,0 +1,6 @@
+pandas
+numpy
+torch
+ipykernel
+ucimlrepo
+scikit-learn
